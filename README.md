@@ -1,4 +1,4 @@
-# SQL-cidades-Brasil
+# SQL-cidades-e-estados-do-Brasil-para-Hibernate
 Script SQL para popular cidades do Brasil.
 
 É possível popular a base de dados inicial utilizando o hibernate, para isso basta inserir na class path do projeto o arquivo 
